@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="welcome_text">Welcome to FitTrack</string>
+    <string name="login">Login</string>
+    <string name="anonymous_login">Continue Anonymously</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="fitness_phase">Fitness Phase</string>
+    <string name="select_date">Select Date</string>
+    <string name="reset_form">Reset Form</string>
+    <string name="logout">Logout</string>
+    <string name="bmi_result_title">Your BMI Result</string>
+    <string name="history_title">History Dashboard</string>
+    <string name="share_progress">Share Progress</string>
+    <string name="validation_error">Validation Error</string>
+    <string name="please_fill_all">Please fill in all fields.</string>
+    <string name="ok">OK</string>
+</resources>
