@@ -10,7 +10,7 @@
         android:theme="@style/Theme.MyApplication">
 
         <activity
-            android:name="com.fittrack.pro.MainActivity"
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,7 +18,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.fittrack.pro.ResultActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ResultActivity" />
 
     </application>
 
